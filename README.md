@@ -1,2 +1,2 @@
-# Libraray-App
+# Library-App
 Library Application
